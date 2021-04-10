@@ -57,6 +57,22 @@ body {
   background-color: rgb(224, 110, 102);
 }
 
+/* Latihan3 */
+.container-tiga {
+  width: 800px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.thumnail {
+  width: 25%;
+}
+.thumnail img {
+  width: 100%;
+}
+
 @media (min-width: 600px) {
   .container-dua {
     display: flex;
@@ -67,3 +83,5 @@ body {
     width: 30%;
   }
 }
+
+/* Latihan3 */
